@@ -1,0 +1,31 @@
+body{
+    box-sizing: border-box;
+}
+#name{
+    text-align: center;
+    color: blueviolet;
+    background-color: aquamarine;
+    border: 2px solid goldenrod;
+}
+a{
+    text-decoration: none;
+    color: brown;
+    font-size: 30px;
+}
+
+h3{
+    color: darkslateblue;
+}
+
+li, p{
+    font-size: 20px;
+}
+
+p{
+    margin: auto 22px;
+}
+
+img{
+    height: 300px;
+    width: auto;
+}

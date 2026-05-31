@@ -1,0 +1,20 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+}
+h1{
+    text-align: center;
+    color: midnightblue;
+    background-color: darkgray;
+    border: 2px solid yellow;
+    margin: 3px auto;
+}
+
+li{
+    font-size: 30px;
+    outline: none;
+}
+a{
+    text-decoration: none;
+    color:brown;
+}
